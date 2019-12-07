@@ -1,0 +1,12 @@
+.review-block{
+    background-color: #faf4f3;
+    padding: 16px 20px 16px 20px;
+}
+
+.review-block-checked{
+    background-color: #a9d344;
+    color: white;
+}
+.check-mark{
+    font-size: xx-large;
+}

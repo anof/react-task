@@ -1,0 +1,22 @@
+.restaurant-block
+{
+    padding: 20px 10px 10px 20px;
+}
+
+.restaurant-name{
+    font-size: large;
+    color: #6b17b9;
+    text-decoration: #d6cceb;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    /* cursor: pointer; */
+}
+
+.restaurant-cuisine{
+    font-size: small;
+    color: #d3d3d3;
+}
+
+.restaurant-rating{
+    margin-top: 30px;
+}

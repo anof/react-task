@@ -1,0 +1,19 @@
+.main-button{
+    background-color: #6314b4;
+    color: white;
+    font-weight: 500;
+    padding: 10px 30px 10px 30px;
+    margin: 2px;
+    width: 200px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+}
+
+
+
+.main-button::-moz-focus-inner {
+    border: 0;
+  }
+  
+  
